@@ -3047,4 +3047,6 @@ New WindowsPlayer version-725d6f10dfbd4792 at 6/26/2018 7:26:18 PM, file version
 
 New Studio version-efd7c6297dbe4c7a at 6/26/2018 7:41:47 PM, file version: 0, 344, 0, 215411...Done!
 
-New WindowsPlayer version-3131b9dde23e4df9 at 6/28/2018 6:34:56 PM, file version: 0, 344, 1, 217637...
+New WindowsPlayer version-3131b9dde23e4df9 at 6/28/2018 6:34:56 PM, file version: 0, 344, 1, 217637...Done!
+
+New Studio version-ed177e39a41d4e6e at 6/28/2018 6:50:55 PM, file version: 0, 344, 1, 217637...Done!
