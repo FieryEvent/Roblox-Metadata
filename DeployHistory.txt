@@ -3115,4 +3115,4 @@ New RccService version-92fc740d68f2400a at 8/22/2018 4:33:41 PM, file version: 0
 
 New WindowsPlayer version-1be9cf81db8f4e46 at 8/22/2018 4:37:41 PM, file version: 0, 351, 0, 232950...Done!
 
-New Studio version-1d1c92210a5a42f8 at 8/22/2018 4:42:54 PM, file version: 0, 351, 0, 232950...
+New Studio version-1d1c92210a5a42f8 at 8/22/2018 4:42:54 PM, file version: 0, 351, 0, 232950...Done!
