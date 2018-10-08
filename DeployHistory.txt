@@ -3166,3 +3166,9 @@ New RccService version-4e4396107a3b49a3 at 10/2/2018 12:29:33 PM, file version: 
 New WindowsPlayer version-aa7aa6ffd6814f65 at 10/2/2018 12:31:02 PM, file version: 0, 357, 0, 244916...Done!
 
 New Studio version-08edfeeed2494a60 at 10/2/2018 12:35:00 PM, file version: 0, 357, 0, 244916...Done!
+
+New RccService version-d648f79274cf49d6 at 10/8/2018 2:59:13 PM, file version: 0, 358, 0, 246716...Done!
+
+New WindowsPlayer version-8ef03b85fc3e4eab at 10/8/2018 3:00:54 PM, file version: 0, 358, 0, 246716...Done!
+
+New Studio version-c7c6d55ab4ee460a at 10/8/2018 3:06:59 PM, file version: 0, 358, 0, 246716...Done!
