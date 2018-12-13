@@ -3290,3 +3290,11 @@ New WindowsPlayer version-d38201d3e9f24c12 at 12/10/2018 11:08:44 PM, file versi
 New Studio version-02a48b5b924048f2 at 12/10/2018 11:13:03 PM, file version: 0, 366, 0, 265730...Done!
 
 New Studio version-da7edb08080846db at 12/10/2018 11:18:01 PM, file version: 0, 366, 0, 265730...Done!
+
+New RccService version-3a9b909033f040a7 at 12/12/2018 6:46:12 PM, file version: 0, 367, 0, 267289...Done!
+
+New WindowsPlayer version-317eeb4ea63c4355 at 12/12/2018 6:47:36 PM, file version: 0, 367, 0, 267289...Done!
+
+New Studio version-d8c9cb3dbab24348 at 12/12/2018 6:51:35 PM, file version: 0, 367, 0, 267289...Done!
+
+New Studio version-e07682ef24a64a72 at 12/12/2018 6:57:33 PM, file version: 0, 367, 0, 267289...Done!
