@@ -3974,4 +3974,8 @@ New Studio64 version-966ef1b7979946fe at 10/14/2019 9:12:28 PM, file version: 0,
 
 New RccService version-8c26d2e389594192 at 10/21/2019 12:54:04 PM, file version: 0, 407, 0, 353595...Done!
 
-New WindowsPlayer version-798e67a238a54256 at 10/21/2019 7:39:00 PM, file version: 0, 407, 0, 353595...
+New WindowsPlayer version-798e67a238a54256 at 10/21/2019 7:39:00 PM, file version: 0, 407, 0, 353595...Done!
+
+New Studio version-89ebdba3d36e437c at 10/21/2019 7:44:25 PM, file version: 0, 407, 0, 353595...Done!
+
+New Studio64 version-85bb636e7a6143d5 at 10/21/2019 7:50:49 PM, file version: 0, 407, 0, 353595...Done!
