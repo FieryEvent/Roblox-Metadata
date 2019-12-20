@@ -4147,4 +4147,8 @@ New RccService version-ea096c5819594f36 at 12/17/2019 9:57:54 PM, file version: 
 
 New RccService version-18437acda0bf4339 at 12/19/2019 5:40:55 PM, file version: 0, 414, 0, 371256...Done!
 
-New WindowsPlayer version-6732fbeefd3e4604 at 12/19/2019 5:42:47 PM, file version: 0, 414, 0, 371256...
+New WindowsPlayer version-6732fbeefd3e4604 at 12/19/2019 5:42:47 PM, file version: 0, 414, 0, 371256...Done!
+
+New Studio version-1ce5fd31c01740c7 at 12/19/2019 5:49:01 PM, file version: 0, 414, 0, 371256...Done!
+
+New Studio64 version-0308f6d751ad4cad at 12/19/2019 5:56:55 PM, file version: 0, 414, 0, 371256...Done!
