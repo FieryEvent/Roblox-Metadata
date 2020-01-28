@@ -4191,3 +4191,9 @@ New WindowsPlayer version-21fae30a32e64ef9 at 1/22/2020 12:02:53 PM, file versio
 New Studio version-97976e29c18d4f5b at 1/22/2020 12:06:48 PM, file version: 0, 416, 0, 375788...Done!
 
 New Studio64 version-1a6cd2b508e64da7 at 1/22/2020 12:17:05 PM, file version: 0, 416, 0, 375788...Done!
+
+New WindowsPlayer version-5318ee6793534e9d at 1/27/2020 8:55:18 PM, file version: 0, 417, 0, 376966...Done!
+
+New Studio version-7d01026f9f644102 at 1/27/2020 9:04:02 PM, file version: 0, 417, 0, 376966...Done!
+
+New Studio64 version-5e1cf61354bf427c at 1/27/2020 9:14:11 PM, file version: 0, 417, 0, 376966...Done!
