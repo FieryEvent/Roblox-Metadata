@@ -4684,3 +4684,13 @@ New Studio64 version-218cf88c9caf4a2c at 6/15/2020 12:47:18 AM, file version: 0,
 New Studio version-176ac10913224381 at 6/15/2020 12:58:27 AM, file version: 0, 437, 0, 406827...Done!
 
 New Studio64 version-1364c98648474c49 at 6/15/2020 1:07:31 AM, file version: 0, 437, 0, 406827...Done!
+
+New WindowsPlayer version-26fc3239eb174834 at 6/15/2020 12:47:00 PM, file version: 0, 437, 0, 406875...Done!
+
+New Studio version-b16995f6563e479b at 6/15/2020 12:54:12 PM, file version: 0, 437, 0, 406875...Done!
+
+New Studio64 version-0f92b7995f2446f0 at 6/15/2020 1:03:13 PM, file version: 0, 437, 0, 406875...Done!
+
+New Studio version-33a4f4bc240a458b at 6/15/2020 1:13:56 PM, file version: 0, 437, 0, 406875...Done!
+
+New Studio64 version-d8d21efa0313425e at 6/15/2020 1:22:54 PM, file version: 0, 437, 0, 406875...Done!
