@@ -4919,4 +4919,14 @@ New RccService version-20c74d621c01491d at 9/9/2020 3:53:58 PM, file version: 0,
 
 New RccService version-20c74d621c01491d at 9/9/2020 3:55:38 PM, file version: 0, 447, 1, 411042...Done!
 
-New WindowsPlayer version-aab08b22c58b46f1 at 9/10/2020 1:37:19 PM, file version: 0, 447, 1, 411123...
+New WindowsPlayer version-aab08b22c58b46f1 at 9/10/2020 1:37:19 PM, file version: 0, 447, 1, 411123...Done!
+
+New Studio version-a5b4dc42ff3a4d76 at 9/10/2020 1:45:14 PM, file version: 0, 447, 1, 411123...Done!
+
+New Studio64 version-e14c7c800bb54bef at 9/10/2020 1:55:17 PM, file version: 0, 447, 1, 411123...Done!
+
+New Studio version-14bec3fdbeea4183 at 9/10/2020 2:08:39 PM, file version: 0, 447, 1, 411123...Done!
+
+New Studio64 version-f856d756422343ac at 9/10/2020 2:19:43 PM, file version: 0, 447, 1, 411123...Done!
+
+New RccService version-681f0759182e4c53 at 9/10/2020 2:34:33 PM, file version: 0, 447, 1, 411123...Done!
