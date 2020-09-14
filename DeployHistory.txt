@@ -4940,3 +4940,7 @@ New Studio64 version-84c32f5657de4a18 at 9/11/2020 3:20:14 PM, file version: 0, 
 New Studio version-9b53a5bc1eba4130 at 9/11/2020 3:32:00 PM, file version: 0, 448, 0, 411159...Done!
 
 New Studio64 version-336284c1436242a0 at 9/11/2020 3:41:55 PM, file version: 0, 448, 0, 411159...Done!
+
+New WindowsPlayer version-cc7ad37d688d4cd3 at 9/14/2020 4:32:40 PM, file version: 0, 448, 0, 411244...Done!
+
+New Studio version-b3e30402567d46f6 at 9/14/2020 4:40:23 PM, file version: 0, 448, 0, 411244...
