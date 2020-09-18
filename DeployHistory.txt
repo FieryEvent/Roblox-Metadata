@@ -4952,3 +4952,11 @@ New Studio version-821c2a6e08894f0f at 9/14/2020 5:03:47 PM, file version: 0, 44
 New Studio64 version-3375356f1cd447e2 at 9/14/2020 5:13:33 PM, file version: 0, 448, 0, 411244...Done!
 
 New RccService version-20ceedbf82fe436d at 9/15/2020 12:30:36 PM, file version: 0, 448, 0, 411244...Done!
+
+New WindowsPlayer version-29f32f2bb3c545c0 at 9/18/2020 3:11:17 PM, file version: 0, 449, 0, 411458...Done!
+
+New Studio version-b2ff8cc6c0974db7 at 9/18/2020 3:18:49 PM, file version: 0, 449, 0, 411458...Done!
+
+New Studio64 version-c4a1c6002db24a68 at 9/18/2020 3:28:17 PM, file version: 0, 449, 0, 411458...Done!
+
+New Studio version-ffdd65a7a63846bc at 9/18/2020 3:40:21 PM, file version: 0, 449, 0, 411458...
