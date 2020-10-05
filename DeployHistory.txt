@@ -4997,4 +4997,12 @@ New Studio version-3776a9cec8cb4493 at 10/2/2020 3:40:02 PM, file version: 0, 45
 
 New Studio64 version-c853cf8591e847b4 at 10/2/2020 3:50:19 PM, file version: 0, 451, 0, 412334...Done!
 
-New WindowsPlayer version-aa66315930d14906 at 10/5/2020 3:40:46 PM, file version: 0, 451, 0, 412446...
+New WindowsPlayer version-aa66315930d14906 at 10/5/2020 3:40:46 PM, file version: 0, 451, 0, 412446...Done!
+
+New Studio version-add424a683944de3 at 10/5/2020 3:48:51 PM, file version: 0, 451, 0, 412446...Done!
+
+New Studio64 version-305a714528b3478a at 10/5/2020 3:59:15 PM, file version: 0, 451, 0, 412446...Done!
+
+New Studio version-785cf94b21cc4fe1 at 10/5/2020 4:12:57 PM, file version: 0, 451, 0, 412446...Done!
+
+New Studio64 version-2ef21d65aca444ee at 10/5/2020 4:23:26 PM, file version: 0, 451, 0, 412446...Done!
